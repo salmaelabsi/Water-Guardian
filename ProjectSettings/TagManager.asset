@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Reward
+  - TopSpike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Panel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1329188923
+    locked: 0
+  - name: platform
+    uniqueID: 356312953
+    locked: 0
+  - name: enemies
+    uniqueID: 1805164659
+    locked: 0
+  - name: pickup
+    uniqueID: 971150615
+    locked: 0
+  - name: player
+    uniqueID: 736679451
+    locked: 0
+  - name: GUI
+    uniqueID: 2150422305
+    locked: 0

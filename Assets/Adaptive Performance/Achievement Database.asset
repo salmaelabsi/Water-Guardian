@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6a1d51def6f3a645a05036d6e71dda1, type: 3}
+  m_Name: Achievement Database
+  m_EditorClassIdentifier: 
+  achievements:
+    array:
+    - id: A1
+      name: Water Saver!
+      description: You completed Game 1
+    - id: A2
+      name: Water Hero!
+      description: You completed Game 2
+    - id: A3
+      name: Water Master!
+      description: You completed Game 3
+    - id: A4
+      name: Water Champion!
+      description: You completed Game 4
+    - id: A5
+      name: Water Guardian!
+      description: You completed Game 5

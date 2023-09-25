@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 37f23fff2fa55e443b0d0bcfa9c370db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - click: {fileID: 8300000, guid: ddf5c46ee19a1ed4aa08c8508385ae37, type: 3}
+  - sprinkler: {fileID: 8300000, guid: 1bfbaa5083e17a84a83cb9a7fed77366, type: 3}
+  - win: {fileID: 8300000, guid: 51fcdec537ab750458084ca9c8efeec5, type: 3}
+  - bgMusic: {fileID: 8300000, guid: 21c8cece97d52c142ac11a24aea467c1, type: 3}
+  - soundFX: {instanceID: 0}
+  - bgMusicSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

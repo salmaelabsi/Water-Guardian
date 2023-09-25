@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2c2a0b434c9b4324c979c2c5d52c3156
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: f5ab5fc3c8f9cf44084570396b23258d
+  - enabled: 1
+    path: Assets/Scenes/Achievements.unity
+    guid: 59509c88746178d4d87b179441024691
+  - enabled: 1
+    path: Assets/Scenes/Game 1.unity
+    guid: c5fbbfff437d22f46b56b81d9fa730f5
+  - enabled: 1
+    path: Assets/Scenes/Game 2.unity
+    guid: 6e181c5f7adf10f41a9601c5b384332c
+  - enabled: 1
+    path: Assets/Scenes/Game 3.unity
+    guid: 1b42a816b8b10d54dbed5a092bf406e8
+  - enabled: 1
+    path: Assets/Scenes/Game 4.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game 5.unity
+    guid: 74f5ba8decb6cb24a83e1a4d6c3957bb
+  - enabled: 0
+    path: Assets/Scenes/Quit.unity
+    guid: 56a45f5646c5f014d87e97f7d5a404a2
+  - enabled: 0
+    path: Assets/Scenes/Music.unity
+    guid: f1885fd817fbb734f9396fc5e9daa204
+  - enabled: 0
+    path: Assets/Scenes/Achievemets.unity
+    guid: 8e56fef139080fc49a782d5deb8fb193
+  - enabled: 0
+    path: Assets/Scenes/Pause Screen - Play.unity
+    guid: b4da7833760c65642b79c17fce1643ef
+  - enabled: 0
+    path: Assets/Scenes/Game 4.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9948e4af396ab4e4d9f5b709b7f1ba6c,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: ce5678db819d92d478d55f9d79e5e539, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 9412db9c0a5db3a4da41a01040dcf4ba, type: 2}
